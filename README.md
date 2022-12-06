@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00565f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+humano,+tudo+bem?;+Meu+nome+é+Gil+Everson+Czarneski;Estou+com+28+anos+de+idade;Sou+de+Araucária,+PR;Estou+migrando+da+engenharia+para+computação;Seja+bem-vindoa+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+humano,+tudo+bem?;+Meu+nome+é+Gil+Everson+Czarneski;Estou+com+28+anos+de+idade;Sou+de+Araucária,+PR;Estou+migrando+da+engenharia+para+computação;Seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 Procuro ocupar a cabeça com algo que me agregue conhecimento mas, nenhuma pessoa é de ferro, (exceto o Stark), me aventuro na cozinha para descontrair (o cozinheiro é prioridade nos eventos), também gosto de fazer musculação para clarear as idéias.
 
@@ -12,9 +12,9 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img src="./assets/
 
 <strong>Atualmente estou neste processo de migração de carreira da engenharia para programação. No momento estou estudando a tríade WEB:
 
-<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" title="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" title="JavaScript"/>
 </strong>
 
 <div align="center">
@@ -32,12 +32,12 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img src="./assets/
 
 <h1>Minha caixa de ferramentas</h1>
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
-  <img src="https://img.shields.io/badge/-GIT-%23181717?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/-GITHUB-%23181717?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode">
+  <img title="HTML" src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="CSS" src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+  <img title="Git" src="https://img.shields.io/badge/-GIT-%23181717?style=for-the-badge&logo=git">
+  <img title="GitHub" src="https://img.shields.io/badge/-GITHUB-%23181717?style=for-the-badge&logo=github">
+  <img title="VSCode" src="https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode">
 </div>
   
 <h1>Contatos</h1>
