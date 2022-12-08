@@ -39,7 +39,7 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
 
 # Minhas graduações
 
-<a href="https://www.ufpr.br" target="_blank"><img title="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" alt="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" src="./assets/UFPR.png"  target="_blank"></a>
+<a href="https://www.ufpr.br" target="_blank"><img title="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" alt="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" src="./assets/UFPR.png"></a>
 
 ---
 
