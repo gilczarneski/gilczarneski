@@ -13,7 +13,7 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
 ---
 
 <p align="center">
-<img align="center" alt="Coder GIF" height=250 width=350 src="./assets/code.gif" />
+<img alt="Coder GIF" height=250 width=350 src="./assets/code.gif" />
 </p>
 
 **Atualmente estou neste processo de migração de carreira da engenharia para programação. No momento estou estudando a tríade WEB:**
