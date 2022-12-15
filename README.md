@@ -1,8 +1,8 @@
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8bbedd31f8c0a9e11f5fbb0d9cea577c/raw/d029eccdf8e078a3ba5df2cfb0b4b88b3f418aab/PortugueseLanguageFlag.svg">](#Português)
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8991f069c5d7910d60df800fb1d2945a/raw/d6a89315cb941ddf9fbf2fa4384b77a0d193db24/EnglishLanguageFlag.svg">](#English)
 
-[<img width=70 src="./assets/portuguese.svg">](#Português)
-[<img width=70 src="./assets/english.svg">](#English)
+# English
 
-# English 
 <!--- The links for customizing the applications are commented at the end of the applications.--->
 
 <img title="Cabeçalho Arte" alt="Cabeçalho Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=header"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
@@ -13,7 +13,7 @@
 
 I try to occupy my head with something that adds knowledge, but no person is made of iron (except Stark), I venture into the kitchen to relax (the cook is a priority at events), I also like to do weight training to clarify my ideas.
 
-Academically, I am B.Sc. in Production engineering from <img title="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" alt=" Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" src="./assets/UFPR.png" >, during my formation, through of the internships I worked in the development of process automation with VBA - Visual Basic for Applications where I found my vocation which is programming.
+Academically, I am B.Sc. in Production engineering from <img width="" title="Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" alt=" Badge UFPR - UNIVERSIDADE FEDERAL DO PARANÁ" src="./assets/UFPR.png" >, during my formation, through of the internships I worked in the development of process automation with VBA - Visual Basic for Applications where I found my vocation which is programming.
 
 ---
 
@@ -35,7 +35,7 @@ Academically, I am B.Sc. in Production engineering from <img title="Badge UFPR -
   <a href="https://github.com/gilczarneski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=gilczarneski&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
@@ -85,6 +85,7 @@ Academically, I am B.Sc. in Production engineering from <img title="Badge UFPR -
 <img title="Rodapé Arte" alt="Rodapé Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=footer"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
 
 # Português
+
 <!--- Os links para a customização das aplicações estão comentadas no final das mesmas.--->
 
 <img title="Cabeçalho Arte" alt="Cabeçalho Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=header"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
@@ -117,7 +118,7 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
   <a href="https://github.com/gilczarneski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=gilczarneski&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
@@ -165,4 +166,3 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
 </div>
 
 <img title="Rodapé Arte" alt="Rodapé Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=footer"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
-
