@@ -33,9 +33,9 @@ Academically, I am B.Sc. in Production engineering from <img width="" title="Bad
 
 <div align="center">
   <a href="https://github.com/gilczarneski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=gilczarneski&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
@@ -116,9 +116,9 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
 
 <div align="center">
   <a href="https://github.com/gilczarneski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilczarneski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilczarneski&layout=compact&langs_count=6&theme=dracula" /></a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=gilczarneski&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
