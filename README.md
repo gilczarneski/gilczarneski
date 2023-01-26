@@ -68,20 +68,6 @@ Academically, I am B.Sc. in Production engineering from <img width="" title="Bad
 
 ---
 
-<h1>Moving here through my profile</h1>
-
-<div align="center">
-  <h2>Seguidores</h2>
-
-<img title="Badge GitHub Followers" alt="Badge GitHub Followers" src="https://img.shields.io/github/followers/gilczarneski?style=for-the-badge&logo=github&logoColor=white"/> <!-- https://img.shields.io -->
-
-  <h2>Visitor counter</h2>
-
-  <h3> You are the visitor n°: </h3>
-  <img title="Visitors Count" alt="Visitors Count"src="https://profile-counter.glitch.me/gilczarneski/count.svg" /> <!-- https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g -->
-
-</div>
-
 <img title="Rodapé Arte" alt="Rodapé Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=footer"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
 
 # Português
@@ -150,19 +136,4 @@ Academicamente sou Bacharel em Engenharia de Produção pela <img title="Badge U
 </div>
 
 ---
-
-<h1>Movimentação aqui pelo meu perfil</h1>
-
-<div align="center">
-  <h2>Seguidores</h2>
-
-<img title="Badge GitHub Followers" alt="Badge GitHub Followers" src="https://img.shields.io/github/followers/gilczarneski?style=for-the-badge&logo=github&logoColor=white"/> <!-- https://img.shields.io -->
-
-  <h2>Contador de visitantes</h2>
-
-  <h3> Você é o visitante n°: </h3>
-  <img title="Visitors Count" alt="Visitors Count"src="https://profile-counter.glitch.me/gilczarneski/count.svg" /> <!-- https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g -->
-
-</div>
-
 <img title="Rodapé Arte" alt="Rodapé Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=footer"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
