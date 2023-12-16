@@ -7,7 +7,7 @@
 
 <img title="Cabeçalho Arte" alt="Cabeçalho Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=header"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
 
-![Cabeçalho animado](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=1000&lines=Hi+human,+how+are+you+?;+My+name+is+Gil+Everson+Czarneski.;I+am+28+years+old.;I'm+from+Araucária-Paraná-Brazil.;I'm+migrating+from+engineering+to+computing.;Welcome+to+my+profile!+:%29 'Cabeçalho animado') <!-- https://git.io/typing-svg -->
+![Cabeçalho animado](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=1000&lines=Hi+human,+how+are+you+?;+My+name+is+Gil+Everson+Czarneski.;I'm+from+Araucária-Paraná-Brazil.;I'm+migrating+from+engineering+to+computing.;Welcome+to+my+profile!+:%29 'Cabeçalho animado') <!-- https://git.io/typing-svg -->
 
 ---
 
@@ -76,7 +76,7 @@ Academically, I am B.Sc. in Production engineering from <img width="" title="Bad
 
 <img title="Cabeçalho Arte" alt="Cabeçalho Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=header"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
 
-![Cabeçalho animado](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=1000&lines=Olá+humano,+tudo+bem?;+Meu+nome+é+Gil+Everson+Czarneski.;Estou+com+28+anos+de+idade.;Sou+de+Araucária%2fPR.;Estou+migrando+da+engenharia+para+computação.;Seja+bem-vindo+ao+meu+perfil!+:%29 'Cabeçalho animado') <!-- https://git.io/typing-svg -->
+![Cabeçalho animado](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=1000&lines=Olá+humano,+tudo+bem?;+Meu+nome+é+Gil+Everson+Czarneski.;Sou+de+Araucária-Paraná-Brasil%2fPR.;Estou+migrando+da+engenharia+para+computação.;Seja+bem-vindo+ao+meu+perfil!+:%29 'Cabeçalho animado') <!-- https://git.io/typing-svg -->
 
 ---
 
